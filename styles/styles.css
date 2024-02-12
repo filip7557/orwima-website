@@ -355,6 +355,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 3rem;
+  font-family: Poppins, sans-serif;
 }
 
 .benefit {
