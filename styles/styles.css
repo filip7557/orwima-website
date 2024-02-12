@@ -372,6 +372,7 @@
   font-size: 20px;
   color: #333;
   margin-bottom: 10px;
+  font-family: Poppins, sans-serif;
 }
 
 .benefit p {
@@ -396,7 +397,7 @@
 }
 
 .zopkot__zaposlise-content-jobinfo a {
-  color: rgba(0, 90, 4, 0.5);
+  color: rgba(255, 255, 255, 1);
 }
 
 .zopkot__zaposlise-content-jobinfo a:hover {
