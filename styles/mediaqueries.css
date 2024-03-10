@@ -1,0 +1,19 @@
+@media screen and (max-width: 600px) {
+    .zopkot__header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .zopkot__header-content {
+        align-items: center;
+    }
+
+    .zopkot__moto {
+        text-align: center;
+    }
+
+    .zopkot__stocistimo-content {
+        flex-direction: column;
+    }
+}
